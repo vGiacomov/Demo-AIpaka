@@ -1,0 +1,12 @@
+{
+  "name": "Easy",
+  "objects": [
+    {
+      "id": "o0",
+      "type": "target",
+      "x": 620,
+      "y": 384,
+      "rotation": 0
+    }
+  ]
+}

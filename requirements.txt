@@ -1,0 +1,9 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pydantic>=2.9,<3
+gymnasium>=1,<2
+stable-baselines3>=2.5,<3
+torch>=2.3
+numpy>=1.26
+pytest>=8
+httpx>=0.27

@@ -1,0 +1,61 @@
+{
+  "name": "Hard",
+  "objects": [
+    {
+      "id": "o0",
+      "type": "stone",
+      "x": 564,
+      "y": 378,
+      "rotation": 0
+    },
+    {
+      "id": "o1",
+      "type": "stone",
+      "x": 644,
+      "y": 378,
+      "rotation": 0
+    },
+    {
+      "id": "o2",
+      "type": "beam",
+      "x": 604,
+      "y": 348,
+      "rotation": 0
+    },
+    {
+      "id": "o3",
+      "type": "glass",
+      "x": 580,
+      "y": 309,
+      "rotation": 0
+    },
+    {
+      "id": "o4",
+      "type": "wood",
+      "x": 633,
+      "y": 311,
+      "rotation": 0
+    },
+    {
+      "id": "o5",
+      "type": "beam",
+      "x": 606,
+      "y": 270,
+      "rotation": 0
+    },
+    {
+      "id": "o6",
+      "type": "target",
+      "x": 605,
+      "y": 246,
+      "rotation": 0
+    },
+    {
+      "id": "o7",
+      "type": "target",
+      "x": 742,
+      "y": 384,
+      "rotation": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "wood": {
+    "name": "Drewno",
+    "w": 32,
+    "h": 58,
+    "density": 0.002,
+    "hp": 24,
+    "color": "#dca66e"
+  },
+  "stone": {
+    "name": "Kamień",
+    "w": 44,
+    "h": 44,
+    "density": 0.004,
+    "hp": 50,
+    "color": "#8797a9"
+  },
+  "glass": {
+    "name": "Szkło",
+    "w": 26,
+    "h": 62,
+    "density": 0.0014,
+    "hp": 12,
+    "color": "#8ed7dd"
+  },
+  "beam": {
+    "name": "Belka",
+    "w": 110,
+    "h": 16,
+    "density": 0.002,
+    "hp": 24,
+    "color": "#bd8759"
+  },
+  "platform": {
+    "name": "Platforma",
+    "w": 130,
+    "h": 16,
+    "density": 0.005,
+    "hp": 100,
+    "color": "#637380"
+  },
+  "ball": {
+    "name": "Kula",
+    "w": 32,
+    "h": 32,
+    "density": 0.003,
+    "hp": 30,
+    "color": "#b6a8d4"
+  },
+  "target": {
+    "name": "Cel",
+    "w": 32,
+    "h": 32,
+    "density": 0.002,
+    "hp": 14,
+    "color": "#ff886e"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Medium",
+  "objects": [
+    {
+      "id": "o0",
+      "type": "wood",
+      "x": 575,
+      "y": 371,
+      "rotation": 0
+    },
+    {
+      "id": "o1",
+      "type": "wood",
+      "x": 651,
+      "y": 371,
+      "rotation": 0
+    },
+    {
+      "id": "o2",
+      "type": "beam",
+      "x": 613,
+      "y": 334,
+      "rotation": 0
+    },
+    {
+      "id": "o3",
+      "type": "target",
+      "x": 613,
+      "y": 310,
+      "rotation": 0
+    }
+  ]
+}
